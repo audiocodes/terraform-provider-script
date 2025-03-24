@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+/terraform-provider-script
 
 # Test binary, built with `go test -c`
 *.test

@@ -1,4 +1,4 @@
-module github.com/czmirek/terraform-provider-script
+module github.com/audiocodes/terraform-provider-script
 
 go 1.23
 

@@ -42,7 +42,7 @@ resource "script" "new" {
 }
 ```
 
-See the [powershell example](https://github.com/czmirek/terraform-provider-script/tree/main/examples)
+See the [powershell example](https://github.com/audiocodes/terraform-provider-script/tree/main/examples)
 
 ## Schema
 

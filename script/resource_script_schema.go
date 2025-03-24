@@ -21,7 +21,7 @@ func resourceScript() *schema.Resource {
 	"resource" : "the resource string" 
 }` + "\n```\n\n" +
 
-			"See the [powershell example](https://github.com/czmirek/terraform-provider-script/tree/main/examples)",
+			"See the [powershell example](https://github.com/audiocodes/terraform-provider-script/tree/main/examples)",
 		Schema: map[string]*schema.Schema{
 			"read": {
 				Type: schema.TypeList,

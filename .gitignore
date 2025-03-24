@@ -5,6 +5,7 @@
 *.so
 *.dylib
 /terraform-provider-script
+/bin/
 
 # Test binary, built with `go test -c`
 *.test

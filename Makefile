@@ -4,7 +4,7 @@ NAMESPACE=audiocodes
 NAME=script
 BINARY=terraform-provider-${NAME}
 VERSION=1.0
-OS_ARCH=windows_amd64
+OS_ARCH=$$(go env GOOS)_$$(go env GOARCH)
 
 default: install
 

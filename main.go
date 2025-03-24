@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/czmirek/terraform-provider-script/script"
+	"github.com/audiocodes/terraform-provider-script/script"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )

@@ -2,7 +2,7 @@ terraform {
   required_providers {
     script = {
       version = ">= 0.1"
-      source = "czmirek/script"
+      source = "audiocodes/script"
     }
   }
 }
